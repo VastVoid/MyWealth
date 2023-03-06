@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealthAPI\\MyWealthAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealthAPI\\MyWealthAPI.csproj",
       "projectName": "MyWealthAPI",
-      "projectPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealthAPI\\MyWealthAPI.csproj",
+      "projectPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealthAPI\\MyWealthAPI.csproj",
       "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealthAPI\\obj\\",
+      "outputPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealthAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",

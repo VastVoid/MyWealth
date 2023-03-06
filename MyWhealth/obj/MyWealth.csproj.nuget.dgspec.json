@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealth\\MyWealth.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealth\\MyWealth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealth\\MyWealth.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealth\\MyWealth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealth\\MyWealth.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealth\\MyWealth.csproj",
         "projectName": "MyWealth",
-        "projectPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealth\\MyWealth.csproj",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealth\\MyWealth.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\MyWhealth\\MyWhealth\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\petprojects\\Новая папка\\MyWealth\\MyWhealth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",

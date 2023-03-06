@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWealth", "MyWhealth\MyWea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWealthAPI", "MyWhealthAPI\MyWealthAPI.csproj", "{154E6D59-D273-409C-9334-F41095786FF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{670939EF-3F32-410B-930D-EAAA98ED946E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{154E6D59-D273-409C-9334-F41095786FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{154E6D59-D273-409C-9334-F41095786FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{154E6D59-D273-409C-9334-F41095786FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670939EF-3F32-410B-930D-EAAA98ED946E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670939EF-3F32-410B-930D-EAAA98ED946E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670939EF-3F32-410B-930D-EAAA98ED946E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670939EF-3F32-410B-930D-EAAA98ED946E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
